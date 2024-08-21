@@ -1,5 +1,4 @@
 package com.example.springboot_mongodb_project.domain;
-
 import java.io.Serializable;
 import java.util.Objects;
 
